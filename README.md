@@ -1,4 +1,4 @@
-=== Audio Visualizer
+===Audio Visualizer
 
 * Ruby Processing
 * JRuby
