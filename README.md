@@ -4,4 +4,6 @@
 * JRuby
 * Minim
 
-#### Uses primary audio input on computer to produce visual
+
+##### run with ``` rp5 ```
+##### Uses primary audio input on computer to produce visual
